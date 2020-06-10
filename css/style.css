@@ -365,7 +365,7 @@ body {
 }
 .table-hover.table-mc-light-blue > tbody > tr:hover > td,
 .table-hover.table-mc-light-blue > tbody > tr:hover > th {
-  background-color: #lightgrey;
+  background-color: lightgrey;
 }
 @media screen and (max-width: 767px) {
   .table-responsive-vertical .table-striped.table-mc-light-blue > tbody > tr > td,
@@ -380,7 +380,7 @@ body {
     background-color: #fff;
   }
   .table-responsive-vertical .table-hover.table-mc-light-blue > tbody > tr > td:hover {
-    background-color: #lightgrey;
+    background-color: lightgrey;
   }
 }
 .table-striped.table-mc-cyan > tbody > tr:nth-child(odd) > td,
