@@ -1,8 +1,9 @@
 @font-face {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-style: italic;
   font-weight: 100;
-  src: local('Geneva'), local('Geneva'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf) format('truetype');
+  src: local("Geneva"), local("Geneva"),
+    url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf) format("truetype");
 }
 *,
 *:after,
@@ -26,14 +27,14 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: 'RobotoDraft', 'Roboto', 'Helvetica Neue, Helvetica, Arial', sans-serif;
+  font-family: "RobotoDraft", "Roboto", "Helvetica Neue, Helvetica, Arial", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 1.4rem;
   line-height: 2rem;
   letter-spacing: 0.01rem;
   color: black;
-  background-color: #0E2538;
+  background-color: #0e2538;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
