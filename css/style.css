@@ -1,12 +1,9 @@
-/* -- import Roboto Font ---------------------------- */
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 100;
   src: local('Geneva'), local('Geneva'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf) format('truetype');
 }
-/* -- You can use this tables in Bootstrap (v3) projects. -- */
-/* -- Box model ------------------------------- */
 *,
 *:after,
 *:before {
@@ -14,7 +11,6 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-/* -- Demo style ------------------------------- */
 html,
 body {
   position: relative;
@@ -69,7 +65,6 @@ body {
   -moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
 }
-/* -- Material Design Table style -------------- */
 .table {
   width: 100%;
   max-width: 100%;
@@ -603,4 +598,3 @@ body {
     background-color: #ffccbc;
   }
 }
-≈≈
