@@ -561,14 +561,14 @@ body {
 @media screen and (max-width: 767px) {
   .table-responsive-vertical .table-striped.table-mc-orange > tbody > tr > td,
   .table-responsive-vertical .table-striped.table-mc-orange > tbody > tr:nth-child(odd) {
-    background-color: #fff;
+    background-color: #ffffff;
   }
   .table-responsive-vertical .table-striped.table-mc-orange > tbody > tr > td:nth-child(odd) {
     background-color: #fff3e0;
   }
   .table-responsive-vertical .table-hover.table-mc-orange > tbody > tr:hover > td,
   .table-responsive-vertical .table-hover.table-mc-orange > tbody > tr:hover {
-    background-color: #fff;
+    background-color: #ffffff;
   }
   .table-responsive-vertical .table-hover.table-mc-orange > tbody > tr > td:hover {
     background-color: #ffe0b2;
